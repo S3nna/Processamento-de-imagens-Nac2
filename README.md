@@ -1,4 +1,4 @@
-# Primeira NAC - IA Enginnering
+# Segunda NAC - IA Enginnering
 
 **Nome dos alunos:** 
 Aline Satie Kamo e Matheus Sena Silva
