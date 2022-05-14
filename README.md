@@ -1,6 +1,7 @@
 # Segunda NAC -Parte 1 Detecção de cartas 
 
-**Nome dos aluno** 
+**Nome do aluno** 
+
  Matheus Sena Silva
 
 **Turma:**
