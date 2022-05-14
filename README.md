@@ -1,7 +1,7 @@
-# Segunda NAC - IA Enginnering
+# Segunda NAC -Parte 1 Detecção de cartas 
 
-**Nome dos alunos:** 
-Aline Satie Kamo e Matheus Sena Silva
+**Nome dos aluno** 
+ Matheus Sena Silva
 
 **Turma:**
 SIA
@@ -11,8 +11,9 @@ SIA
 
 ## Objetivo / descrição do Projeto
 
-Projeto desenvolvido para atender as atividades que compoem a primeira NAC do sementre da matéria de AI Enginnering.
-Tema: Tratamento de imagens usando OpenCV.
+A ideia é fazer o desenvolvimento de um script em python que detecta a carta correta no vídeo em tempo real. O código deve ser capaz de contornar a carta selecionada e escrever na tela “CARTA DETECTADA”
+![image](https://user-images.githubusercontent.com/61739336/168447367-467e7831-6125-4154-8a35-2b2fdda0b894.png)
+
 
 ## Diagrama do projeto
 
