@@ -45,7 +45,7 @@ while True:
 
 
     for pt in zip(*loc[::-1]):
-        cv2.rectangle(resize, pt, (pt[0] + w, pt[1] + h), (100, 200, 60), 1)
+        cv2.rectangle(resize, pt, (pt[0] + w, pt[1] + h), (15, 15, 238), 1)
         print("carta encontrada")        
 
         cv2.putText(resize, 'CARTA ENCONTRADA', (40, 50), cv2.QT_FONT_BLACK,
